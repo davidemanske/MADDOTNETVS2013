@@ -1,0 +1,6 @@
+C:\Users\centare\Desktop\MADDOTNET 2.5.2014\Codes\MADDOTNET.Init\MADDNOTNET.AngularJS\bin\MADDNOTNET.AngularJS.dll.config
+C:\Users\centare\Desktop\MADDOTNET 2.5.2014\Codes\MADDOTNET.Init\MADDNOTNET.AngularJS\bin\MADDNOTNET.AngularJS.dll
+C:\Users\centare\Desktop\MADDOTNET 2.5.2014\Codes\MADDOTNET.Init\MADDNOTNET.AngularJS\bin\MADDNOTNET.AngularJS.pdb
+C:\Users\centare\Desktop\MADDOTNET 2.5.2014\Codes\MADDOTNET.Init\MADDNOTNET.AngularJS\obj\Debug\MADDNOTNET.AngularJS.csprojResolveAssemblyReference.cache
+C:\Users\centare\Desktop\MADDOTNET 2.5.2014\Codes\MADDOTNET.Init\MADDNOTNET.AngularJS\obj\Debug\MADDNOTNET.AngularJS.dll
+C:\Users\centare\Desktop\MADDOTNET 2.5.2014\Codes\MADDOTNET.Init\MADDNOTNET.AngularJS\obj\Debug\MADDNOTNET.AngularJS.pdb

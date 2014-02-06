@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MADDOTNET.Init", "MADDOTNET.Init\MADDOTNET.Init.csproj", "{6E34ED25-DC10-4311-9F64-76616D3256DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MADDOTNET.Init.Tests", "MADDOTNET.Init.Tests\MADDOTNET.Init.Tests.csproj", "{0CE14850-707F-4A22-833B-0E03CE9BEAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MADDOTNET.Web", "MADDOTNET.Web\MADDOTNET.Web.csproj", "{F99E46BC-2FD7-4869-AAE1-C46E5E2FF87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MADDNOTNET.AngularJS", "MADDNOTNET.AngularJS\MADDNOTNET.AngularJS.csproj", "{33C20A8E-2A8D-42C8-86FA-F5AC223053B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E34ED25-DC10-4311-9F64-76616D3256DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E34ED25-DC10-4311-9F64-76616D3256DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E34ED25-DC10-4311-9F64-76616D3256DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E34ED25-DC10-4311-9F64-76616D3256DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE14850-707F-4A22-833B-0E03CE9BEAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE14850-707F-4A22-833B-0E03CE9BEAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE14850-707F-4A22-833B-0E03CE9BEAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE14850-707F-4A22-833B-0E03CE9BEAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99E46BC-2FD7-4869-AAE1-C46E5E2FF87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99E46BC-2FD7-4869-AAE1-C46E5E2FF87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99E46BC-2FD7-4869-AAE1-C46E5E2FF87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99E46BC-2FD7-4869-AAE1-C46E5E2FF87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C20A8E-2A8D-42C8-86FA-F5AC223053B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C20A8E-2A8D-42C8-86FA-F5AC223053B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C20A8E-2A8D-42C8-86FA-F5AC223053B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C20A8E-2A8D-42C8-86FA-F5AC223053B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
